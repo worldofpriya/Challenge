@@ -13,6 +13,6 @@ namespace ShoeSwap.Models
         public bool Sock { get; set; }
         public string ShoeLattitude { get; set; }
         public string ShoeLongitude { get; set; }
-
+        public string Email { get; set; }
     }
 }
