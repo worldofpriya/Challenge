@@ -137,6 +137,5 @@ C:\Users\426193\Desktop\Challenge\ShoeSwap\ShoeSwap\bin\ko\System.Spatial.resour
 C:\Users\426193\Desktop\Challenge\ShoeSwap\ShoeSwap\bin\ru\System.Spatial.resources.dll
 C:\Users\426193\Desktop\Challenge\ShoeSwap\ShoeSwap\bin\zh-Hans\System.Spatial.resources.dll
 C:\Users\426193\Desktop\Challenge\ShoeSwap\ShoeSwap\bin\zh-Hant\System.Spatial.resources.dll
-C:\Users\426193\Desktop\Challenge\ShoeSwap\ShoeSwap\obj\Debug\ShoeSwap.csprojResolveAssemblyReference.cache
 C:\Users\426193\Desktop\Challenge\ShoeSwap\ShoeSwap\obj\Debug\ShoeSwap.dll
 C:\Users\426193\Desktop\Challenge\ShoeSwap\ShoeSwap\obj\Debug\ShoeSwap.pdb
