@@ -1,0 +1,17 @@
+﻿@model ShoeSwap.Models.ShoeSwap
+
+@{
+    ViewBag.Title = "ShoeSwap";
+}
+
+<h2>ShoeSwap</h2>
+@using (Html.BeginForm("Index", "Home", FormMethod.Post, new {id = "billaddressform"}))
+{
+    <fieldset>
+        <div class="editor-label">
+            @Html.LabelFor(model => model.ShoeColor)
+        </div>
+    </fieldset>
+    
+    <input type="submit" value="Submit Shoe"/>
+}
